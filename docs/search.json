@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "欢迎来到我的个人网站",
+    "section": "",
+    "text": "华中农业大学 农业信息工程 硕士\n\n\n\n\n\n\n\n\n\n\n\n\n农业大数据分析\n机器学习在农业中的应用\n精准农业技术\n\n\n\n\n\n2025年3月：在《农业工程学报》发表论文\n2025年2月：参加全国农业信息工程学术会议\n2024年12月：完成硕士学位论文答辩"
+  },
+  {
+    "objectID": "index.html#黄俊豪",
+    "href": "index.html#黄俊豪",
+    "title": "欢迎来到我的个人网站",
+    "section": "",
+    "text": "华中农业大学 农业信息工程 硕士\n\n\n\n\n\n\n\n\n\n\n\n\n农业大数据分析\n机器学习在农业中的应用\n精准农业技术\n\n\n\n\n\n2025年3月：在《农业工程学报》发表论文\n2025年2月：参加全国农业信息工程学术会议\n2024年12月：完成硕士学位论文答辩"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "联系方式",
+    "section": "",
+    "text": "地址：湖北省武汉市洪山区狮子山街1号 华中农业大学\n邮箱：huangjunhao@mail.hzau.edu.cn\n电话：+86 138 1234 5678\n微信：huangjh1234\nGitHub: github.com/huangjunhao\nLinkedIn: linkedin.com/in/huangjunhao"
+  },
+  {
+    "objectID": "contact.html#联系信息",
+    "href": "contact.html#联系信息",
+    "title": "联系方式",
+    "section": "",
+    "text": "地址：湖北省武汉市洪山区狮子山街1号 华中农业大学\n邮箱：huangjunhao@mail.hzau.edu.cn\n电话：+86 138 1234 5678\n微信：huangjh1234\nGitHub: github.com/huangjunhao\nLinkedIn: linkedin.com/in/huangjunhao"
+  },
+  {
+    "objectID": "contact.html#办公时间",
+    "href": "contact.html#办公时间",
+    "title": "联系方式",
+    "section": "办公时间",
+    "text": "办公时间\n\n周一至周五：9:00 - 17:00\n周末及节假日休息"
+  },
+  {
+    "objectID": "contact.html#地理位置",
+    "href": "contact.html#地理位置",
+    "title": "联系方式",
+    "section": "地理位置",
+    "text": "地理位置\n\n\nWarning: 程序包'leaflet'是用R版本4.4.3 来建造的"
+  },
+  {
+    "objectID": "contact.html#联系表单",
+    "href": "contact.html#联系表单",
+    "title": "联系方式",
+    "section": "联系表单",
+    "text": "联系表单\n\n\n&lt;label for=\"name\"&gt;姓名&lt;/label&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required&gt;\n\n\n&lt;label for=\"email\"&gt;邮箱&lt;/label&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required&gt;\n\n\n&lt;label for=\"message\"&gt;留言&lt;/label&gt;\n&lt;textarea id=\"message\" name=\"message\" rows=\"5\" required&gt;&lt;/textarea&gt;\n\n\n发送"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "个人简介",
+    "section": "",
+    "text": "姓名：黄俊豪\n出生日期：1998年5月\n籍贯：湖北武汉\n邮箱：huangjunhao@mail.hzau.edu.cn\n电话：+86 138 1234 5678"
+  },
+  {
+    "objectID": "about.html#基本信息",
+    "href": "about.html#基本信息",
+    "title": "个人简介",
+    "section": "",
+    "text": "姓名：黄俊豪\n出生日期：1998年5月\n籍贯：湖北武汉\n邮箱：huangjunhao@mail.hzau.edu.cn\n电话：+86 138 1234 5678"
+  },
+  {
+    "objectID": "about.html#个人简介",
+    "href": "about.html#个人简介",
+    "title": "个人简介",
+    "section": "个人简介",
+    "text": "个人简介\n我是一名专注于农业信息工程研究的硕士研究生，2024年毕业于华中农业大学。我的研究兴趣主要集中在农业大数据分析和机器学习在农业中的应用。在研究生期间，我参与了多个国家级科研项目，并在核心期刊发表论文3篇。"
+  },
+  {
+    "objectID": "about.html#技能专长",
+    "href": "about.html#技能专长",
+    "title": "个人简介",
+    "section": "技能专长",
+    "text": "技能专长\n\n编程语言：Python, R, JavaScript\n数据分析：Pandas, NumPy, Scikit-learn\n机器学习：TensorFlow, PyTorch\n数据库：MySQL, MongoDB\n版本控制：Git, GitHub"
+  },
+  {
+    "objectID": "about.html#语言能力",
+    "href": "about.html#语言能力",
+    "title": "个人简介",
+    "section": "语言能力",
+    "text": "语言能力\n\n中文：母语\n英语：CET-6，熟练的读写能力"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "曾获荣誉",
+    "section": "",
+    "text": "2024年 华中农业大学优秀硕士学位论文\n2023年 全国大学生数学建模竞赛 一等奖\n2022年 研究生国家奖学金\n2021年 湖北省优秀本科毕业生"
+  },
+  {
+    "objectID": "awards.html#学术荣誉",
+    "href": "awards.html#学术荣誉",
+    "title": "曾获荣誉",
+    "section": "",
+    "text": "2024年 华中农业大学优秀硕士学位论文\n2023年 全国大学生数学建模竞赛 一等奖\n2022年 研究生国家奖学金\n2021年 湖北省优秀本科毕业生"
+  },
+  {
+    "objectID": "awards.html#科研成果",
+    "href": "awards.html#科研成果",
+    "title": "曾获荣誉",
+    "section": "科研成果",
+    "text": "科研成果\n\n发表论文：\n\n黄俊豪, 李明. 基于深度学习的农作物病虫害识别方法研究. 农业工程学报, 2025, 41(3): 123-130.\nHuang J, Li M. A novel approach for crop disease detection using deep learning. Computers and Electronics in Agriculture, 2024, 198: 107012.\n\n参与项目：\n\n国家重点研发计划：智慧农业关键技术研究与示范\n国家自然科学基金：基于深度学习的农业大数据分析方法研究"
+  },
+  {
+    "objectID": "awards.html#专利",
+    "href": "awards.html#专利",
+    "title": "曾获荣誉",
+    "section": "专利",
+    "text": "专利\n\n一种基于深度学习的农作物病虫害识别系统（专利号：ZL202310123456.7）\n农业大数据分析平台V1.0（软件著作权登记号：2023SR123456）"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "教育经历",
+    "section": "",
+    "text": "研究方向：农业大数据分析与应用\n导师：李明教授\n主要课程：\n\n农业大数据技术\n机器学习与数据挖掘\n精准农业技术\n农业物联网\n\n毕业论文：《基于深度学习的农作物病虫害识别系统研究》"
+  },
+  {
+    "objectID": "education.html#华中农业大学",
+    "href": "education.html#华中农业大学",
+    "title": "教育经历",
+    "section": "",
+    "text": "研究方向：农业大数据分析与应用\n导师：李明教授\n主要课程：\n\n农业大数据技术\n机器学习与数据挖掘\n精准农业技术\n农业物联网\n\n毕业论文：《基于深度学习的农作物病虫害识别系统研究》"
+  },
+  {
+    "objectID": "education.html#华中农业大学-1",
+    "href": "education.html#华中农业大学-1",
+    "title": "教育经历",
+    "section": "华中农业大学",
+    "text": "华中农业大学\n\n计算机科学与技术 本科\n\n2017.09 - 2021.06\n\n专业排名：5/120\n主要课程：\n\n数据结构与算法\n数据库原理\n计算机网络\n人工智能导论\n\n毕业设计：《基于机器学习的农产品价格预测系统》"
+  }
+]
