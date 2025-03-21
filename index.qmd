@@ -1,0 +1,36 @@
+---
+title: "欢迎来到我的个人网站"
+---
+
+## 黄俊豪
+
+华中农业大学 农业信息工程 硕士
+
+```{r}
+#| echo: false
+library(ggplot2)
+library(patchwork)
+
+# 创建示例图表
+p1 <- ggplot(mpg, aes(displ, hwy, colour = class)) +
+  geom_point(size = 2) +
+  theme_minimal() +
+  labs(title = "数据分析示例")
+
+p2 <- ggplot(mpg, aes(class, hwy)) +
+  geom_boxplot() +
+  theme_minimal() +
+  labs(title = "数据可视化示例")
+
+p1 + p2
+```
+
+### 研究方向
+- 农业大数据分析
+- 机器学习在农业中的应用
+- 精准农业技术
+
+### 最新动态
+- 2025年3月：在《农业工程学报》发表论文
+- 2025年2月：参加全国农业信息工程学术会议
+- 2024年12月：完成硕士学位论文答辩
